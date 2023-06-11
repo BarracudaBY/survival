@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Blood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3298863069
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Blood
+    uniqueID: 3119322475
+    locked: 0
+  - name: Enemy
+    uniqueID: 14836731
+    locked: 0
+  - name: PickUps
+    uniqueID: 1058189239
+    locked: 0
+  - name: Weapons
+    uniqueID: 331354169
+    locked: 0
+  - name: Player
+    uniqueID: 2693453347
+    locked: 0
+  - name: UI
+    uniqueID: 1519875415
+    locked: 0
